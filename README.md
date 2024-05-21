@@ -14,6 +14,8 @@ Oyundan bazı kareler:
 ![resim3](https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/afd8f28c-f122-4b7c-8ff0-3b8e7950a9d1)
 ![resim1](https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/713f0388-29ff-4b69-8a9d-3775fcd01bc3)
 ![resim2](https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/42d8fbf9-9273-4be2-89f8-e701c04d0a41)
+
+
 Oyunun videosuna erişmek için:
 https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/07d8ce1a-a623-4819-a059-de20d122d560
 
