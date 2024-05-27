@@ -13,9 +13,9 @@
 
 5. Doğru cevaplar sepetinizde yumurta biriktirirken, yanlış cevaplar yumurtaların sallanmasına neden olur. Üç kez yanlış yapma hakkınız vardır.
 
-6. Oyuncuya 60 saniye verilir ve bu süre içerisinde oyuncunun renklere, sayılara ve süreye dikkat etmesi gerekir. Yanlış cevaplar sürenizi hızlandırırken, doğru cevaplar süreye etki etmez.
-
 ![resim3](https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/afd8f28c-f122-4b7c-8ff0-3b8e7950a9d1)
+
+6. Oyuncuya 60 saniye verilir ve bu süre içerisinde oyuncunun renklere, sayılara ve süreye dikkat etmesi gerekir. Yanlış cevaplar sürenizi hızlandırırken, doğru cevaplar süreye etki etmez.
 
 ![foti1](https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/cb3af048-118c-4fcc-b7b5-3302fa362453)
 
