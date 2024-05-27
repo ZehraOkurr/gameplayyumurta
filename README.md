@@ -10,10 +10,13 @@
 
 4. Oyunun amacı, en fazla hangi renkte yumurtanın olduğunu bulmak ve sepeti yumurtalarla doldurmaktır.
 
-5. Doğru cevaplar sepetinizde yumurta biriktirirken, yanlış cevaplar yumurtaların sallanmasına neden olur. Üç kez yanlış yapma hakkınız vardır. 
+5. Doğru cevaplar sepetinizde yumurta biriktirirken, yanlış cevaplar yumurtaların sallanmasına neden olur. Üç kez yanlış yapma hakkınız vardır.
+   
+Oyunumuzun ana menüsü:
+
 ![resim3](https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/afd8f28c-f122-4b7c-8ff0-3b8e7950a9d1)
 
-Oyunumuzun ana menüsü:
+Oyunumuzun görünümü:
 
 ![foti1](https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/cb3af048-118c-4fcc-b7b5-3302fa362453)
 
