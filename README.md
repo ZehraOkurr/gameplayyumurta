@@ -13,7 +13,6 @@ Oyuncuya 60 saniye süre verilmekte ve bu süre zarfında oyuncu, hem renklere h
 
 Oyun sonunda yani süre bitince, oyuncunun topladığı yumurta skoruna bakılarak beş yıldız üzerinden değerlendirilecek. 
 
-Yumurtanın renklerini incelemek, kısıtlı sürede odaklanmak zorunda olması oyuncunun dikkatini; hangi renkten kaç tane olduğunu aklında tutup diğer yumurta renkleriyle karşılaştırması hafızasını; yumurtları sayması da oyuncunun hesap yeteneğini ölçmektedir.
 Oyundan bazı kareler:
 ![resim3](https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/afd8f28c-f122-4b7c-8ff0-3b8e7950a9d1)
 ![foti1](https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/cb3af048-118c-4fcc-b7b5-3302fa362453)
