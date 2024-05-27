@@ -1,4 +1,6 @@
 # gameplayyumurta
+Oyunun videosuna erişmek için:
+https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/42719f52-68f2-41ff-9f13-abdd78508231
 Oyunun Adı “Sepet Sepet Yumurta”dır.
 
 4x4 ‘lük bir karenin içerisinde belirli sayıda yumurtalar bulunmaktadır. 
@@ -16,11 +18,3 @@ Oyundan bazı kareler:
 ![resim3](https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/afd8f28c-f122-4b7c-8ff0-3b8e7950a9d1)
 ![foti1](https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/cb3af048-118c-4fcc-b7b5-3302fa362453)
 ![resim2](https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/42d8fbf9-9273-4be2-89f8-e701c04d0a41)
-
-
-
-Oyunun videosuna erişmek için:
-https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/42719f52-68f2-41ff-9f13-abdd78508231
-
-
-
