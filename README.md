@@ -26,5 +26,5 @@ Oyunumuzun skor tablosu:
 
 ![resim2](https://github.com/ZehraOkurr/gameplayyumurta/assets/148492493/42d8fbf9-9273-4be2-89f8-e701c04d0a41)
 
-7. Oyun sona erdiğinde, oyuncunun topladığı yumurta sayısına bakılarak beş yıldız üzerinden değerlendirilecek.
+6. Oyun sona erdiğinde, oyuncunun topladığı yumurta sayısına bakılarak beş yıldız üzerinden değerlendirilecek.
 ------------------------------------------------------------------------------------------------------------------------
